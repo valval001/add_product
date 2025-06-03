@@ -3,3 +3,4 @@ boto3
 SQLAlchemy
 PyMySQL
 flask_sqlalchemy
+Flask-SQLAlchemy
